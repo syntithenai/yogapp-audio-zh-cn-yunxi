@@ -1,0 +1,148 @@
+{
+  "id": "sleep-gate-5",
+  "voiceId": "zh-cn-yunxi",
+  "edgeVoice": "zh-CN-YunxiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 103,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "这种做法是为了睡觉的边缘。",
+      "file": "c000.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 1,
+      "text": "把灯光调暗。躺。",
+      "file": "c001.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 2,
+      "text": "此刻没有什么事情需要完成。",
+      "file": "c002.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 3,
+      "text": "[暂停：24]",
+      "file": "c003.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 4,
+      "text": "轻轻吸气。",
+      "file": "c004.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 5,
+      "text": "呼气时间长一些。",
+      "file": "c005.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 6,
+      "text": "[暂停：24]",
+      "file": "c006.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 7,
+      "text": "松开额头。",
+      "file": "c007.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 8,
+      "text": "松开眼睛。",
+      "file": "c008.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 9,
+      "text": "松开下巴。",
+      "file": "c009.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 10,
+      "text": "[暂停：29]",
+      "file": "c010.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 11,
+      "text": "沉重的手臂。腿重。",
+      "file": "c011.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 12,
+      "text": "[暂停：29]",
+      "file": "c012.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 13,
+      "text": "如果思绪来访，就让它们像夜车一样飘过。",
+      "file": "c013.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 14,
+      "text": "你与呼吸保持一致。",
+      "file": "c014.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 15,
+      "text": "[暂停：45]",
+      "file": "c015.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 16,
+      "text": "身体下沉。",
+      "file": "c016.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 17,
+      "text": "呼吸安静。",
+      "file": "c017.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 18,
+      "text": "[暂停：45]",
+      "file": "c018.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 19,
+      "text": "如果睡眠来了，就让它吧。",
+      "file": "c019.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 20,
+      "text": "如果没有的话，还是休息吧。",
+      "file": "c020.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 21,
+      "text": "[暂停：35]",
+      "file": "c021.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 22,
+      "text": "祝这一天晚安。",
+      "file": "c022.ogg",
+      "durationSec": 3.576
+    }
+  ]
+}

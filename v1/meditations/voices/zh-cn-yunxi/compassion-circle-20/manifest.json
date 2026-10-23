@@ -1,0 +1,394 @@
+{
+  "id": "compassion-circle-20",
+  "voiceId": "zh-cn-yunxi",
+  "edgeVoice": "zh-CN-YunxiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 282,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "欢迎。",
+      "file": "c000.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 1,
+      "text": "需要时间到达。",
+      "file": "c001.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 2,
+      "text": "在支撑下坐下或躺下。",
+      "file": "c002.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 3,
+      "text": "如果感觉安全，请闭上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 4,
+      "text": "感受与地面的接触。",
+      "file": "c004.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 5,
+      "text": "缓慢吸气。",
+      "file": "c005.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 6,
+      "text": "呼气时间更长。",
+      "file": "c006.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 7,
+      "text": "[暂停：27]",
+      "file": "c007.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 8,
+      "text": "再次。",
+      "file": "c008.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 9,
+      "text": "[暂停：27]",
+      "file": "c009.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 10,
+      "text": "让肩膀下垂。",
+      "file": "c010.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 11,
+      "text": "让腹部变软。",
+      "file": "c011.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 12,
+      "text": "[暂停：34]",
+      "file": "c012.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 13,
+      "text": "我们将在更广泛的范围内提供善意。",
+      "file": "c013.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 14,
+      "text": "短语是邀请，而不是命令。",
+      "file": "c014.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 15,
+      "text": "[暂停：34]",
+      "file": "c015.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 16,
+      "text": "朝向你自己。",
+      "file": "c016.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 17,
+      "text": "愿我平安。",
+      "file": "c017.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 18,
+      "text": "[暂停：27]",
+      "file": "c018.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 19,
+      "text": "愿我一切安好。",
+      "file": "c019.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 20,
+      "text": "[暂停：27]",
+      "file": "c020.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 21,
+      "text": "愿我活得轻松。",
+      "file": "c021.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 22,
+      "text": "[暂停：41]",
+      "file": "c022.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 23,
+      "text": "再次，慢慢地。",
+      "file": "c023.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 24,
+      "text": "愿我平安。",
+      "file": "c024.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 25,
+      "text": "愿我一切安好。",
+      "file": "c025.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 26,
+      "text": "愿我活得轻松。",
+      "file": "c026.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 27,
+      "text": "[暂停：69]",
+      "file": "c027.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 28,
+      "text": "想起一个朋友或容易关心的人。",
+      "file": "c028.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 29,
+      "text": "愿你平安。",
+      "file": "c029.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 30,
+      "text": "[暂停：27]",
+      "file": "c030.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 31,
+      "text": "愿你一切安好。",
+      "file": "c031.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 32,
+      "text": "[暂停：27]",
+      "file": "c032.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 33,
+      "text": "愿你生活轻松。",
+      "file": "c033.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 34,
+      "text": "[暂停：69]",
+      "file": "c034.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 35,
+      "text": "让人想起一个中立的人。一个你几乎不认识的人。",
+      "file": "c035.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 36,
+      "text": "愿你平安。",
+      "file": "c036.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 37,
+      "text": "愿你一切安好。",
+      "file": "c037.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 38,
+      "text": "愿你生活轻松。",
+      "file": "c038.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 39,
+      "text": "[暂停：69]",
+      "file": "c039.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 40,
+      "text": "如果可能的话，请轻松地包括一些困难的人。",
+      "file": "c040.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 41,
+      "text": "或者回到你自己身上，如果今天更明智的话。",
+      "file": "c041.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 42,
+      "text": "愿你离苦得乐。",
+      "file": "c042.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 43,
+      "text": "[暂停：55]",
+      "file": "c043.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 44,
+      "text": "广度一切众生，无论远近。",
+      "file": "c044.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 45,
+      "text": "愿一切众生皆安。",
+      "file": "c045.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 46,
+      "text": "[暂停：34]",
+      "file": "c046.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 47,
+      "text": "愿一切众生一切安好。",
+      "file": "c047.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 48,
+      "text": "[暂停：34]",
+      "file": "c048.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 49,
+      "text": "愿一切众生生活安逸。",
+      "file": "c049.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 50,
+      "text": "[暂停：82]",
+      "file": "c050.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 51,
+      "text": "回到你自己的身体和呼吸。",
+      "file": "c051.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 52,
+      "text": "在短语的余辉中休息。",
+      "file": "c052.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 53,
+      "text": "[暂停：150]",
+      "file": "c053.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 54,
+      "text": "没什么好强求的。软度就够了。",
+      "file": "c054.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 55,
+      "text": "[暂停：137]",
+      "file": "c055.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 56,
+      "text": "[暂停：41]",
+      "file": "c056.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 57,
+      "text": "开始加深呼吸。",
+      "file": "c057.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 58,
+      "text": "在这里休息。",
+      "file": "c058.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 59,
+      "text": "[暂停：26]",
+      "file": "c059.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 60,
+      "text": "再次感受一下房间。",
+      "file": "c060.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 61,
+      "text": "摆动手指和脚趾。",
+      "file": "c061.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 62,
+      "text": "准备好后，睁开眼睛。",
+      "file": "c062.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 63,
+      "text": "慢慢地进入接下来的事情。",
+      "file": "c063.ogg",
+      "durationSec": 4.512
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "id": "sleep-descent-15",
+  "voiceId": "zh-cn-yunxi",
+  "edgeVoice": "zh-CN-YunxiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 188,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "欢迎来到睡眠练习。",
+      "file": "c000.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 1,
+      "text": "躺。让黑暗成为你的朋友。",
+      "file": "c001.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 2,
+      "text": "你可能会在结束前睡着。这就是成功。",
+      "file": "c002.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 3,
+      "text": "[暂停：22]",
+      "file": "c003.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 4,
+      "text": "缓慢吸气。",
+      "file": "c004.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 5,
+      "text": "呼气时间更长。",
+      "file": "c005.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 6,
+      "text": "[暂停：22]",
+      "file": "c006.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 7,
+      "text": "松开额头。",
+      "file": "c007.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 8,
+      "text": "[暂停：18]",
+      "file": "c008.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 9,
+      "text": "松开眼睛。",
+      "file": "c009.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 10,
+      "text": "[暂停：18]",
+      "file": "c010.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 11,
+      "text": "松开下巴和舌头。",
+      "file": "c011.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 12,
+      "text": "[暂停：22]",
+      "file": "c012.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 13,
+      "text": "肩膀融化了。",
+      "file": "c013.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 14,
+      "text": "[暂停：22]",
+      "file": "c014.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 15,
+      "text": "手臂沉重。双手张开。",
+      "file": "c015.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 16,
+      "text": "[暂停：22]",
+      "file": "c016.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 17,
+      "text": "胸口软软的。肚子软了。",
+      "file": "c017.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 18,
+      "text": "[暂停：22]",
+      "file": "c018.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 19,
+      "text": "臀部沉重。",
+      "file": "c019.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 20,
+      "text": "[暂停：22]",
+      "file": "c020.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 21,
+      "text": "腿很重。脚很重。",
+      "file": "c021.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 22,
+      "text": "[暂停：27]",
+      "file": "c022.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 23,
+      "text": "整个人都陷进了床上。",
+      "file": "c023.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 24,
+      "text": "[暂停：36]",
+      "file": "c024.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 25,
+      "text": "思想就像遥远的交通。",
+      "file": "c025.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 26,
+      "text": "你不跟随他们。",
+      "file": "c026.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 27,
+      "text": "[暂停：45]",
+      "file": "c027.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 28,
+      "text": "呼吸更平静。",
+      "file": "c028.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 29,
+      "text": "[暂停：45]",
+      "file": "c029.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 30,
+      "text": "更暗。更柔软。慢点。",
+      "file": "c030.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 31,
+      "text": "[暂停：67]",
+      "file": "c031.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 32,
+      "text": "没什么要完成的。",
+      "file": "c032.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 33,
+      "text": "[暂停：54]",
+      "file": "c033.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 34,
+      "text": "可以安全休息了。",
+      "file": "c034.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 35,
+      "text": "[暂停：89]",
+      "file": "c035.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 36,
+      "text": "安全睡觉。",
+      "file": "c036.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 37,
+      "text": "[暂停：112]",
+      "file": "c037.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 38,
+      "text": "如果你还醒着，继续呼气休息。",
+      "file": "c038.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 39,
+      "text": "[暂停：89]",
+      "file": "c039.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 40,
+      "text": "晚安。",
+      "file": "c040.ogg",
+      "durationSec": 2.736
+    },
+    {
+      "index": 41,
+      "text": "[暂停：67]",
+      "file": "c041.ogg",
+      "durationSec": 4.584
+    }
+  ]
+}

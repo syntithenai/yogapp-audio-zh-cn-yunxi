@@ -1,0 +1,172 @@
+{
+  "id": "kindness-hard-day-5",
+  "voiceId": "zh-cn-yunxi",
+  "edgeVoice": "zh-CN-YunxiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 123,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "欢迎。",
+      "file": "c000.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 1,
+      "text": "找一个舒适的座位，或者如果感觉好一点的话就躺下来。",
+      "file": "c001.ogg",
+      "durationSec": 8.736
+    },
+    {
+      "index": 2,
+      "text": "让双手休息一下。",
+      "file": "c002.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 3,
+      "text": "软化眼睛，或闭上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 4,
+      "text": "缓慢吸气。",
+      "file": "c004.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 5,
+      "text": "并且呼气时间更长。",
+      "file": "c005.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 6,
+      "text": "你不需要假装这很容易。",
+      "file": "c006.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 7,
+      "text": "让疲劳的真相被允许。",
+      "file": "c007.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 8,
+      "text": "[暂停：31]",
+      "file": "c008.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 9,
+      "text": "小心呼吸。",
+      "file": "c009.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 10,
+      "text": "呼气要求就可以了。",
+      "file": "c010.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 11,
+      "text": "[暂停：31]",
+      "file": "c011.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 12,
+      "text": "今晚愿我对自己温柔一点。",
+      "file": "c012.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 13,
+      "text": "愿我安息如我。",
+      "file": "c013.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 14,
+      "text": "[暂停：31]",
+      "file": "c014.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 15,
+      "text": "愿明天只问我能给予的。",
+      "file": "c015.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 16,
+      "text": "[暂停：31]",
+      "file": "c016.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 17,
+      "text": "感觉身体受​​到支撑。",
+      "file": "c017.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 18,
+      "text": "这一刻不需要再做任何事了。",
+      "file": "c018.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 19,
+      "text": "[暂停：45]",
+      "file": "c019.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 20,
+      "text": "如果有帮助的话，请把手放在心里。",
+      "file": "c020.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 21,
+      "text": "你成功了。",
+      "file": "c021.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 22,
+      "text": "[暂停：38]",
+      "file": "c022.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 23,
+      "text": "再轻松地吸一口气。",
+      "file": "c023.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 24,
+      "text": "动动手指。",
+      "file": "c024.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 25,
+      "text": "准备好后，睁开眼睛。",
+      "file": "c025.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 26,
+      "text": "随身携带一点这个。",
+      "file": "c026.ogg",
+      "durationSec": 4.008
+    }
+  ]
+}

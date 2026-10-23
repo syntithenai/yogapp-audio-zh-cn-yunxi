@@ -1,0 +1,610 @@
+{
+  "id": "deep-rest-20",
+  "voiceId": "zh-cn-yunxi",
+  "edgeVoice": "zh-CN-YunxiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 448,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "欢迎来到深度休息的练习。",
+      "file": "c000.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 1,
+      "text": "如果可以的话，仰卧。",
+      "file": "c001.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 2,
+      "text": "如果有帮助的话，支撑头部和膝盖。",
+      "file": "c002.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 3,
+      "text": "将手臂放在身体两侧，手掌柔软。",
+      "file": "c003.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 4,
+      "text": "瞑。",
+      "file": "c004.ogg",
+      "durationSec": 2.472
+    },
+    {
+      "index": 5,
+      "text": "没有其他地方可去了。",
+      "file": "c005.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 6,
+      "text": "[暂停：23]",
+      "file": "c006.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 7,
+      "text": "感受与地板或床的接触点。",
+      "file": "c007.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 8,
+      "text": "高跟鞋。臀部。肩胛骨。头。",
+      "file": "c008.ogg",
+      "durationSec": 8.904
+    },
+    {
+      "index": 9,
+      "text": "让身体被握住。",
+      "file": "c009.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 10,
+      "text": "[暂停：23]",
+      "file": "c010.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 11,
+      "text": "注意自然的呼吸。",
+      "file": "c011.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 12,
+      "text": "不需要改变它。",
+      "file": "c012.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 13,
+      "text": "吸气到来。",
+      "file": "c013.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 14,
+      "text": "呼气叶子。",
+      "file": "c014.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 15,
+      "text": "[暂停：25]",
+      "file": "c015.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 16,
+      "text": "如果头脑很忙，这是允许的。",
+      "file": "c016.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 17,
+      "text": "无论如何你都可以休息。",
+      "file": "c017.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 18,
+      "text": "只要继续回归感觉即可。",
+      "file": "c018.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 19,
+      "text": "[暂停：23]",
+      "file": "c019.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 20,
+      "text": "将意识带到右脚。",
+      "file": "c020.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 21,
+      "text": "脚趾。唯一。脚跟。",
+      "file": "c021.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 22,
+      "text": "[暂停：21]",
+      "file": "c022.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 23,
+      "text": "右小腿。",
+      "file": "c023.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 24,
+      "text": "膝盖。",
+      "file": "c024.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 25,
+      "text": "大腿。",
+      "file": "c025.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 26,
+      "text": "[暂停：21]",
+      "file": "c026.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 27,
+      "text": "右髋部。",
+      "file": "c027.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 28,
+      "text": "整条右腿，沉重而安静。",
+      "file": "c028.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 29,
+      "text": "[暂停：23]",
+      "file": "c029.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 30,
+      "text": "左脚。",
+      "file": "c030.ogg",
+      "durationSec": 2.928
+    },
+    {
+      "index": 31,
+      "text": "脚趾。唯一。脚跟。",
+      "file": "c031.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 32,
+      "text": "[暂停：21]",
+      "file": "c032.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 33,
+      "text": "左小腿。",
+      "file": "c033.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 34,
+      "text": "膝盖。",
+      "file": "c034.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 35,
+      "text": "大腿。",
+      "file": "c035.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 36,
+      "text": "[暂停：21]",
+      "file": "c036.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 37,
+      "text": "左臀部。",
+      "file": "c037.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 38,
+      "text": "整条左腿，沉重而安静。",
+      "file": "c038.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 39,
+      "text": "[暂停：23]",
+      "file": "c039.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 40,
+      "text": "骨盆和低腹部。",
+      "file": "c040.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 41,
+      "text": "柔软的。",
+      "file": "c041.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 42,
+      "text": "[暂停：21]",
+      "file": "c042.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 43,
+      "text": "胸部起伏。",
+      "file": "c043.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 44,
+      "text": "心空间开阔、轻松。",
+      "file": "c044.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 45,
+      "text": "[暂停：23]",
+      "file": "c045.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 46,
+      "text": "右手。",
+      "file": "c046.ogg",
+      "durationSec": 2.928
+    },
+    {
+      "index": 47,
+      "text": "手指。棕榈。手腕。",
+      "file": "c047.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 48,
+      "text": "[暂停：14]",
+      "file": "c048.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 49,
+      "text": "右臂。弯头。肩膀。",
+      "file": "c049.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 50,
+      "text": "[暂停：21]",
+      "file": "c050.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 51,
+      "text": "左手。",
+      "file": "c051.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 52,
+      "text": "手指。棕榈。手腕。",
+      "file": "c052.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 53,
+      "text": "[暂停：14]",
+      "file": "c053.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 54,
+      "text": "左臂。弯头。肩膀。",
+      "file": "c054.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 55,
+      "text": "[暂停：23]",
+      "file": "c055.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 56,
+      "text": "喉咙软。",
+      "file": "c056.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 57,
+      "text": "下巴张开。",
+      "file": "c057.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 58,
+      "text": "舌头休息。",
+      "file": "c058.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 59,
+      "text": "[暂停：21]",
+      "file": "c059.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 60,
+      "text": "眼睛搁在眼窝里。",
+      "file": "c060.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 61,
+      "text": "额头光滑。",
+      "file": "c061.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 62,
+      "text": "头皮和头顶。",
+      "file": "c062.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 63,
+      "text": "[暂停：23]",
+      "file": "c063.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 64,
+      "text": "感觉整个身体是一片寂静的场域。",
+      "file": "c064.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 65,
+      "text": "呼吸像平静的潮水一样穿过它。",
+      "file": "c065.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 66,
+      "text": "[暂停：62]",
+      "file": "c066.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 67,
+      "text": "与整个身体保持一致。",
+      "file": "c067.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 68,
+      "text": "[暂停：105]",
+      "file": "c068.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 69,
+      "text": "柔软的。宽敞。仍然。",
+      "file": "c069.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 70,
+      "text": "[暂停：55]",
+      "file": "c070.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 71,
+      "text": "如果有一个念头出现，让它像云一样过去。",
+      "file": "c071.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 72,
+      "text": "[停顿：50]",
+      "file": "c072.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 73,
+      "text": "回到被抱着的感觉。",
+      "file": "c073.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 74,
+      "text": "[暂停：55]",
+      "file": "c074.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 75,
+      "text": "在这里休息。",
+      "file": "c075.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 76,
+      "text": "没什么可解决的。",
+      "file": "c076.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 77,
+      "text": "没有什么要完成的。",
+      "file": "c077.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 78,
+      "text": "[暂停：110]",
+      "file": "c078.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 79,
+      "text": "如果你漂移，那很好。",
+      "file": "c079.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 80,
+      "text": "如果你保持觉知，那也很好。",
+      "file": "c080.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 81,
+      "text": "两人都在休息。",
+      "file": "c081.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 82,
+      "text": "[暂停：130]",
+      "file": "c082.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 83,
+      "text": "休息。",
+      "file": "c083.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 84,
+      "text": "[暂停：115]",
+      "file": "c084.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 85,
+      "text": "再次开始注意呼吸。",
+      "file": "c085.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 86,
+      "text": "现在更生动一些。",
+      "file": "c086.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 87,
+      "text": "[暂停：23]",
+      "file": "c087.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 88,
+      "text": "感受你周围的房间。",
+      "file": "c088.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 89,
+      "text": "声音近又远。",
+      "file": "c089.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 90,
+      "text": "[暂停：21]",
+      "file": "c090.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 91,
+      "text": "动动手指。",
+      "file": "c091.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 92,
+      "text": "扭动脚趾。",
+      "file": "c092.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 93,
+      "text": "如果愿意，可以转动手腕和脚踝。",
+      "file": "c093.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 94,
+      "text": "[暂停：21]",
+      "file": "c094.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 95,
+      "text": "深吸一口气。",
+      "file": "c095.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 96,
+      "text": "并长长地叹了口气。",
+      "file": "c096.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 97,
+      "text": "准备好后，睁开眼睛。",
+      "file": "c097.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 98,
+      "text": "慢慢返回。",
+      "file": "c098.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 99,
+      "text": "随身携带一点这种安静。",
+      "file": "c099.ogg",
+      "durationSec": 4.344
+    }
+  ]
+}

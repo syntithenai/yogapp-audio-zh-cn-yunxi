@@ -1,0 +1,190 @@
+{
+  "id": "midday-reset-5",
+  "voiceId": "zh-cn-yunxi",
+  "edgeVoice": "zh-CN-YunxiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 138,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "欢迎。",
+      "file": "c000.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 1,
+      "text": "找一个舒适的座位，或者如果感觉好一点的话就躺下来。",
+      "file": "c001.ogg",
+      "durationSec": 8.736
+    },
+    {
+      "index": 2,
+      "text": "让双手休息一下。",
+      "file": "c002.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 3,
+      "text": "软化眼睛，或闭上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 4,
+      "text": "缓慢吸气。",
+      "file": "c004.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 5,
+      "text": "并且呼气时间更长。",
+      "file": "c005.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 6,
+      "text": "让早晨就此结束吧，即使这一天还在继续。",
+      "file": "c006.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 7,
+      "text": "放下肩膀。",
+      "file": "c007.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 8,
+      "text": "松开下巴。",
+      "file": "c008.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 9,
+      "text": "[停顿：30]",
+      "file": "c009.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 10,
+      "text": "通过鼻子吸气。",
+      "file": "c010.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 11,
+      "text": "通过嘴呼气，就像雾化窗户一样。",
+      "file": "c011.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 12,
+      "text": "再次。",
+      "file": "c012.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 13,
+      "text": "[停顿：30]",
+      "file": "c013.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 14,
+      "text": "想象一下放下你携带的任何东西。",
+      "file": "c014.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 15,
+      "text": "它可以在你旁边的桌子上等待。",
+      "file": "c015.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 16,
+      "text": "[暂停：37]",
+      "file": "c016.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 17,
+      "text": "感觉脊椎挺高。",
+      "file": "c017.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 18,
+      "text": "感觉肚子软软的。",
+      "file": "c018.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 19,
+      "text": "[停顿：30]",
+      "file": "c019.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 20,
+      "text": "静静地问：接下来的一个小时里有什么重要的事情？",
+      "file": "c020.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 21,
+      "text": "明确的下一步就足够了。",
+      "file": "c021.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 22,
+      "text": "[暂停：44]",
+      "file": "c022.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 23,
+      "text": "呼吸那种简单。",
+      "file": "c023.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 24,
+      "text": "努力呼气。",
+      "file": "c024.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 25,
+      "text": "[暂停：37]",
+      "file": "c025.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 26,
+      "text": "再轻松地吸一口气。",
+      "file": "c026.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 27,
+      "text": "动动手指。",
+      "file": "c027.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 28,
+      "text": "准备好后，睁开眼睛。",
+      "file": "c028.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 29,
+      "text": "随身携带一点这个。",
+      "file": "c029.ogg",
+      "durationSec": 4.008
+    }
+  ]
+}

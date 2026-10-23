@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "zh-cn-yunxi.zip", "bytes": 80033872, "sha256": "1837cd65102b109fd3e9cfcc103d18616e9fd2745254ddc8510f3bca680e8291"}
+  ]
+}

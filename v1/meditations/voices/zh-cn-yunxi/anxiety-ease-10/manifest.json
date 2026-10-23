@@ -1,0 +1,316 @@
+{
+  "id": "anxiety-ease-10",
+  "voiceId": "zh-cn-yunxi",
+  "edgeVoice": "zh-CN-YunxiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 240,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "欢迎。",
+      "file": "c000.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 1,
+      "text": "需要时间到达。",
+      "file": "c001.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 2,
+      "text": "在支撑下坐下或躺下。",
+      "file": "c002.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 3,
+      "text": "如果感觉安全，请闭上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 4,
+      "text": "感受与地面的接触。",
+      "file": "c004.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 5,
+      "text": "缓慢吸气。",
+      "file": "c005.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 6,
+      "text": "呼气时间更长。",
+      "file": "c006.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 7,
+      "text": "[暂停：20]",
+      "file": "c007.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 8,
+      "text": "再次。",
+      "file": "c008.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 9,
+      "text": "[暂停：20]",
+      "file": "c009.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 10,
+      "text": "让肩膀下垂。",
+      "file": "c010.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 11,
+      "text": "让腹部变软。",
+      "file": "c011.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 12,
+      "text": "[暂停：25]",
+      "file": "c012.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 13,
+      "text": "焦虑可能仍然存在。这是允许的。",
+      "file": "c013.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 14,
+      "text": "我们并不与之抗争。我们正在与身体交朋友。",
+      "file": "c014.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 15,
+      "text": "[暂停：25]",
+      "file": "c015.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 16,
+      "text": "将脚轻轻压入地板。",
+      "file": "c016.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 17,
+      "text": "感觉地板向后压。",
+      "file": "c017.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 18,
+      "text": "[暂停：25]",
+      "file": "c018.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 19,
+      "text": "说出三种你闭上眼睛或温柔凝视时可以看到的东西。",
+      "file": "c019.ogg",
+      "durationSec": 9.576
+    },
+    {
+      "index": 20,
+      "text": "黑暗的。光。眼睑的形状。",
+      "file": "c020.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 21,
+      "text": "[暂停：25]",
+      "file": "c021.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 22,
+      "text": "说出三种感觉。",
+      "file": "c022.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 23,
+      "text": "衣服。温度。气息。",
+      "file": "c023.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 24,
+      "text": "[暂停：25]",
+      "file": "c024.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 25,
+      "text": "吸气四次。",
+      "file": "c025.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 26,
+      "text": "坚持两个。",
+      "file": "c026.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 27,
+      "text": "六人出局。",
+      "file": "c027.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 28,
+      "text": "[暂停：20]",
+      "file": "c028.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 29,
+      "text": "再次。",
+      "file": "c029.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 30,
+      "text": "[暂停：25]",
+      "file": "c030.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 31,
+      "text": "将手放在胸部或腹部。",
+      "file": "c031.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 32,
+      "text": "感受手下的运动。",
+      "file": "c032.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 33,
+      "text": "轻声说：现在，我正在呼吸。",
+      "file": "c033.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 34,
+      "text": "[停顿：30]",
+      "file": "c034.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 35,
+      "text": "如果头脑飞速前进，感谢它试图保护你。",
+      "file": "c035.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 36,
+      "text": "然后回到这个呼吸。",
+      "file": "c036.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 37,
+      "text": "[暂停：41]",
+      "file": "c037.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 38,
+      "text": "扫描脸部。软化。",
+      "file": "c038.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 39,
+      "text": "扫描双手。软化。",
+      "file": "c039.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 40,
+      "text": "[停顿：30]",
+      "file": "c040.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 41,
+      "text": "以更长的呼气节奏休息。",
+      "file": "c041.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 42,
+      "text": "[暂停：76]",
+      "file": "c042.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 43,
+      "text": "你给了神经系统更广阔的海岸。",
+      "file": "c043.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 44,
+      "text": "[暂停：41]",
+      "file": "c044.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 45,
+      "text": "[停顿：30]",
+      "file": "c045.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 46,
+      "text": "开始加深呼吸。",
+      "file": "c046.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 47,
+      "text": "再次感受一下房间。",
+      "file": "c047.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 48,
+      "text": "摆动手指和脚趾。",
+      "file": "c048.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 49,
+      "text": "准备好后，睁开眼睛。",
+      "file": "c049.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 50,
+      "text": "慢慢地进入接下来的事情。",
+      "file": "c050.ogg",
+      "durationSec": 4.512
+    }
+  ]
+}
