@@ -1,0 +1,202 @@
+{
+  "id": "soft-belly-5",
+  "voiceId": "zh-cn-yunxi",
+  "edgeVoice": "zh-CN-YunxiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 148,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "欢迎。",
+      "file": "c000.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 1,
+      "text": "找一个舒适的座位，或者如果感觉好一点的话就躺下来。",
+      "file": "c001.ogg",
+      "durationSec": 8.736
+    },
+    {
+      "index": 2,
+      "text": "让双手休息一下。",
+      "file": "c002.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 3,
+      "text": "软化眼睛，或闭上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 4,
+      "text": "缓慢吸气。",
+      "file": "c004.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 5,
+      "text": "并且呼气时间更长。",
+      "file": "c005.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 6,
+      "text": "如果愿意，可以将手放在下腹部。",
+      "file": "c006.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 7,
+      "text": "注意腹部是否受力。",
+      "file": "c007.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 8,
+      "text": "[暂停：20]",
+      "file": "c008.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 9,
+      "text": "下一次吸气时，让腹部扩张。",
+      "file": "c009.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 10,
+      "text": "呼气时，让它落下，不要挤压。",
+      "file": "c010.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 11,
+      "text": "[暂停：20]",
+      "file": "c011.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 12,
+      "text": "再次。肚子软软的进去了",
+      "file": "c012.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 13,
+      "text": "肚子软了。",
+      "file": "c013.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 14,
+      "text": "[暂停：25]",
+      "file": "c014.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 15,
+      "text": "如果头脑争论，就让身体来引导。",
+      "file": "c015.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 16,
+      "text": "扩张。发布。",
+      "file": "c016.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 17,
+      "text": "[暂停：29]",
+      "file": "c017.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 18,
+      "text": "肩膀下垂。",
+      "file": "c018.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 19,
+      "text": "下巴软了",
+      "file": "c019.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 20,
+      "text": "腹部自由。",
+      "file": "c020.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 21,
+      "text": "[暂停：25]",
+      "file": "c021.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 22,
+      "text": "保持十次轻柔的腹部呼吸。",
+      "file": "c022.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 23,
+      "text": "[暂停：45]",
+      "file": "c023.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 24,
+      "text": "注意任何到来的轻松。",
+      "file": "c024.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 25,
+      "text": "[暂停：20]",
+      "file": "c025.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 26,
+      "text": "在这里休息。",
+      "file": "c026.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 27,
+      "text": "[暂停：27]",
+      "file": "c027.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 28,
+      "text": "再轻松地吸一口气。",
+      "file": "c028.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 29,
+      "text": "动动手指。",
+      "file": "c029.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 30,
+      "text": "准备好后，睁开眼睛。",
+      "file": "c030.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 31,
+      "text": "随身携带一点这个。",
+      "file": "c031.ogg",
+      "durationSec": 4.008
+    }
+  ]
+}

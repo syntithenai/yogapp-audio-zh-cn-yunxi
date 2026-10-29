@@ -1,0 +1,184 @@
+{
+  "id": "gratitude-5",
+  "voiceId": "zh-cn-yunxi",
+  "edgeVoice": "zh-CN-YunxiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 146,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "欢迎。",
+      "file": "c000.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 1,
+      "text": "找一个舒适的座位，或者如果感觉好一点的话就躺下来。",
+      "file": "c001.ogg",
+      "durationSec": 8.736
+    },
+    {
+      "index": 2,
+      "text": "让双手休息一下。",
+      "file": "c002.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 3,
+      "text": "软化眼睛，或闭上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 4,
+      "text": "缓慢吸气。",
+      "file": "c004.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 5,
+      "text": "并且呼气时间更长。",
+      "file": "c005.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 6,
+      "text": "回想今天或本周对你有帮助的一件小事。",
+      "file": "c006.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 7,
+      "text": "它可以是普通的。温水。一条消息。墙上的光。",
+      "file": "c007.ogg",
+      "durationSec": 11.112
+    },
+    {
+      "index": 8,
+      "text": "[暂停：21]",
+      "file": "c008.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 9,
+      "text": "意识地轻轻握住它。",
+      "file": "c009.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 10,
+      "text": "注意胸部或面部的任何软化。",
+      "file": "c010.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 11,
+      "text": "[暂停：26]",
+      "file": "c011.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 12,
+      "text": "默默地感谢这一件事。",
+      "file": "c012.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 13,
+      "text": "感谢您来到这里。",
+      "file": "c013.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 14,
+      "text": "[暂停：21]",
+      "file": "c014.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 15,
+      "text": "现在是第二件事。又一个小好事。",
+      "file": "c015.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 16,
+      "text": "[暂停：26]",
+      "file": "c016.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 17,
+      "text": "谢谢。",
+      "file": "c017.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 18,
+      "text": "[暂停：15]",
+      "file": "c018.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 19,
+      "text": "还有一个。第三个。",
+      "file": "c019.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 20,
+      "text": "[暂停：26]",
+      "file": "c020.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 21,
+      "text": "让感恩变得简单。不是强迫的。刚刚注意到。",
+      "file": "c021.ogg",
+      "durationSec": 9.072
+    },
+    {
+      "index": 22,
+      "text": "[暂停：31]",
+      "file": "c022.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 23,
+      "text": "在温暖中休息几次。",
+      "file": "c023.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 24,
+      "text": "[暂停：41]",
+      "file": "c024.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 25,
+      "text": "再轻松地吸一口气。",
+      "file": "c025.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 26,
+      "text": "动动手指。",
+      "file": "c026.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 27,
+      "text": "准备好后，睁开眼睛。",
+      "file": "c027.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 28,
+      "text": "随身携带一点这个。",
+      "file": "c028.ogg",
+      "durationSec": 4.008
+    }
+  ]
+}

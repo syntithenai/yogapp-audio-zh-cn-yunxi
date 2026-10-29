@@ -1,0 +1,238 @@
+{
+  "id": "evening-unload-10",
+  "voiceId": "zh-cn-yunxi",
+  "edgeVoice": "zh-CN-YunxiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 174,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "欢迎。",
+      "file": "c000.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 1,
+      "text": "需要时间到达。",
+      "file": "c001.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 2,
+      "text": "在支撑下坐下或躺下。",
+      "file": "c002.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 3,
+      "text": "如果感觉安全，请闭上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 4,
+      "text": "感受与地面的接触。",
+      "file": "c004.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 5,
+      "text": "缓慢吸气。",
+      "file": "c005.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 6,
+      "text": "呼气时间更长。",
+      "file": "c006.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 7,
+      "text": "[暂停：26]",
+      "file": "c007.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 8,
+      "text": "再次。",
+      "file": "c008.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 9,
+      "text": "[暂停：26]",
+      "file": "c009.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 10,
+      "text": "让肩膀下垂。",
+      "file": "c010.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 11,
+      "text": "让腹部变软。",
+      "file": "c011.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 12,
+      "text": "[暂停：33]",
+      "file": "c012.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 13,
+      "text": "让这一天暂时结束吧。",
+      "file": "c013.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 14,
+      "text": "发生了什么，发生了。",
+      "file": "c014.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 15,
+      "text": "剩下的可以等到早上。",
+      "file": "c015.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 16,
+      "text": "[暂停：33]",
+      "file": "c016.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 17,
+      "text": "呼气时，想象将任务放在架子上。",
+      "file": "c017.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 18,
+      "text": "逐个。没有戏剧。刚放下来。",
+      "file": "c018.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 19,
+      "text": "[暂停：53]",
+      "file": "c019.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 20,
+      "text": "吸四口。呼气六。",
+      "file": "c020.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 21,
+      "text": "[暂停：33]",
+      "file": "c021.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 22,
+      "text": "软化脸部。",
+      "file": "c022.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 23,
+      "text": "放下肩膀。",
+      "file": "c023.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 24,
+      "text": "沉重的手臂。腿重。",
+      "file": "c024.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 25,
+      "text": "[停顿：40]",
+      "file": "c025.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 26,
+      "text": "如果头脑再次列出，请点头，然后返回架子。",
+      "file": "c026.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 27,
+      "text": "[暂停：53]",
+      "file": "c027.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 28,
+      "text": "感觉床垫或椅子抱着你。",
+      "file": "c028.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 29,
+      "text": "[暂停：66]",
+      "file": "c029.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 30,
+      "text": "呼吸更平静。身体更重了。",
+      "file": "c030.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 31,
+      "text": "[暂停：90]",
+      "file": "c031.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 32,
+      "text": "[停顿：40]",
+      "file": "c032.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 33,
+      "text": "开始加深呼吸。",
+      "file": "c033.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 34,
+      "text": "再次感受一下房间。",
+      "file": "c034.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 35,
+      "text": "摆动手指和脚趾。",
+      "file": "c035.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 36,
+      "text": "准备好后，睁开眼睛。",
+      "file": "c036.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 37,
+      "text": "慢慢地进入接下来的事情。",
+      "file": "c037.ogg",
+      "durationSec": 4.512
+    }
+  ]
+}

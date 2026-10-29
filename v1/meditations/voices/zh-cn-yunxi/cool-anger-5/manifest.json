@@ -1,0 +1,160 @@
+{
+  "id": "cool-anger-5",
+  "voiceId": "zh-cn-yunxi",
+  "edgeVoice": "zh-CN-YunxiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 111,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "欢迎。",
+      "file": "c000.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 1,
+      "text": "如果存在愤怒或恼怒，欢迎您来到这里。",
+      "file": "c001.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 2,
+      "text": "你不需要让它消失。",
+      "file": "c002.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 3,
+      "text": "只要给它更多的空间。",
+      "file": "c003.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 4,
+      "text": "感觉脚。",
+      "file": "c004.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 5,
+      "text": "[暂停：25]",
+      "file": "c005.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 6,
+      "text": "吸气四次。",
+      "file": "c006.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 7,
+      "text": "呼气六到八次。",
+      "file": "c007.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 8,
+      "text": "较长的呼气可以使系统冷却。",
+      "file": "c008.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 9,
+      "text": "[暂停：33]",
+      "file": "c009.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 10,
+      "text": "再次。",
+      "file": "c010.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 11,
+      "text": "[暂停：33]",
+      "file": "c011.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 12,
+      "text": "在不讲故事的情况下说出热度。",
+      "file": "c012.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 13,
+      "text": "胸中发热。下巴紧绷。思维敏捷。",
+      "file": "c013.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 14,
+      "text": "[暂停：41]",
+      "file": "c014.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 15,
+      "text": "软化双手。",
+      "file": "c015.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 16,
+      "text": "放下肩膀。",
+      "file": "c016.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 17,
+      "text": "[暂停：33]",
+      "file": "c017.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 18,
+      "text": "您可以稍后从更清晰的地方回复。",
+      "file": "c018.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 19,
+      "text": "现在，呼吸。",
+      "file": "c019.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 20,
+      "text": "[暂停：45]",
+      "file": "c020.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 21,
+      "text": "再轻松地吸一口气。",
+      "file": "c021.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 22,
+      "text": "动动手指。",
+      "file": "c022.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 23,
+      "text": "准备好后，睁开眼睛。",
+      "file": "c023.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 24,
+      "text": "随身携带一点这个。",
+      "file": "c024.ogg",
+      "durationSec": 4.008
+    }
+  ]
+}

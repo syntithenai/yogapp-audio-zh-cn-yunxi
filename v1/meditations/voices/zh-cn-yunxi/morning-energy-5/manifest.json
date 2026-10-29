@@ -1,0 +1,412 @@
+{
+  "id": "morning-energy-5",
+  "voiceId": "zh-cn-yunxi",
+  "edgeVoice": "zh-CN-YunxiNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 323,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "早上好。",
+      "file": "c000.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 1,
+      "text": "欢迎参加简短的练习，迎接这一天。",
+      "file": "c001.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 2,
+      "text": "坐直，或者站起来（如果感觉更好的话）。",
+      "file": "c002.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 3,
+      "text": "让你的眼睛变得柔和，或者闭上它们。",
+      "file": "c003.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 4,
+      "text": "感觉你的脚在地板上。",
+      "file": "c004.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 5,
+      "text": "通过鼻子缓慢吸气。",
+      "file": "c005.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 6,
+      "text": "并通过嘴更充分地呼气。",
+      "file": "c006.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 7,
+      "text": "再次。轻轻吸气。",
+      "file": "c007.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 8,
+      "text": "完全呼气。",
+      "file": "c008.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 9,
+      "text": "再来一张。填满胸部。",
+      "file": "c009.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 10,
+      "text": "彻底清空。",
+      "file": "c010.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 11,
+      "text": "[停顿：4]",
+      "file": "c011.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 12,
+      "text": "展望这一天，但不要紧握它。",
+      "file": "c012.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 13,
+      "text": "您还不需要整个地图。",
+      "file": "c013.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 14,
+      "text": "只是下一步诚实的步骤。",
+      "file": "c014.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 15,
+      "text": "[停顿：5]",
+      "file": "c015.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 16,
+      "text": "吸气四次。",
+      "file": "c016.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 17,
+      "text": "二。三。四。",
+      "file": "c017.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 18,
+      "text": "呼气四次。",
+      "file": "c018.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 19,
+      "text": "二。三。四。",
+      "file": "c019.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 20,
+      "text": "再说一次，按照你自己的节奏。",
+      "file": "c020.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 21,
+      "text": "[停顿：6]",
+      "file": "c021.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 22,
+      "text": "感受手中的温暖。",
+      "file": "c022.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 23,
+      "text": "感受腿部的准备状态。",
+      "file": "c023.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 24,
+      "text": "[停顿：4]",
+      "file": "c024.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 25,
+      "text": "向上、向后和向下滚动肩膀。",
+      "file": "c025.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 26,
+      "text": "松开下巴。",
+      "file": "c026.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 27,
+      "text": "软化腹部。",
+      "file": "c027.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 28,
+      "text": "注意身体中剩余的睡眠。",
+      "file": "c028.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 29,
+      "text": "无需将其推开。",
+      "file": "c029.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 30,
+      "text": "呼吸到肋骨的两侧。",
+      "file": "c030.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 31,
+      "text": "呼气时让它们变窄。",
+      "file": "c031.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 32,
+      "text": "[停顿：5]",
+      "file": "c032.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 33,
+      "text": "现在给呼吸带来一点亮度。",
+      "file": "c033.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 34,
+      "text": "吸气，就像您从内部醒来一样。",
+      "file": "c034.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 35,
+      "text": "呼出昨天的重物。",
+      "file": "c035.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 36,
+      "text": "吸入可能性。",
+      "file": "c036.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 37,
+      "text": "呼出还不需要的努力。",
+      "file": "c037.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 38,
+      "text": "[停顿：4]",
+      "file": "c038.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 39,
+      "text": "将手放在心脏上，或将双手放在膝盖上。",
+      "file": "c039.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 40,
+      "text": "静静地，或者只是听，尝试这些短语。",
+      "file": "c040.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 41,
+      "text": "我在这儿。",
+      "file": "c041.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 42,
+      "text": "我重新开始。",
+      "file": "c042.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 43,
+      "text": "今天早上我已经够了。",
+      "file": "c043.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 44,
+      "text": "[停顿：4]",
+      "file": "c044.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 45,
+      "text": "我走得很稳。",
+      "file": "c045.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 46,
+      "text": "我以清醒的头脑迎接一切。",
+      "file": "c046.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 47,
+      "text": "今天我被允许占用空间。",
+      "file": "c047.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 48,
+      "text": "[停顿：5]",
+      "file": "c048.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 49,
+      "text": "我今天选择一个明确的意图。",
+      "file": "c049.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 50,
+      "text": "这可以很简单。",
+      "file": "c050.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 51,
+      "text": "仁慈。重点。耐心。活力。",
+      "file": "c051.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 52,
+      "text": "屏住这个词，屏住呼吸。",
+      "file": "c052.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 53,
+      "text": "[停顿：6]",
+      "file": "c053.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 54,
+      "text": "想象自己以这种品质度过整个早晨。",
+      "file": "c054.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 55,
+      "text": "[停顿：5]",
+      "file": "c055.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 56,
+      "text": "[停顿：5]",
+      "file": "c056.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 57,
+      "text": "将手指张开，然后柔软。",
+      "file": "c057.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 58,
+      "text": "如果感觉属实的话，稍微抬起嘴角。",
+      "file": "c058.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 59,
+      "text": "[停顿：3]",
+      "file": "c059.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 60,
+      "text": "下一次吸气时感觉脊柱拉长。",
+      "file": "c060.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 61,
+      "text": "呼气时感觉肩膀沉稳。",
+      "file": "c061.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 62,
+      "text": "又吸了一口明亮的气息。",
+      "file": "c062.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 63,
+      "text": "然后长长地、轻松地呼气。",
+      "file": "c063.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 64,
+      "text": "动动手指。",
+      "file": "c064.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 65,
+      "text": "准备好后，睁开眼睛。",
+      "file": "c065.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 66,
+      "text": "将这种安静的能量带入您的一天。",
+      "file": "c066.ogg",
+      "durationSec": 6.0
+    }
+  ]
+}
